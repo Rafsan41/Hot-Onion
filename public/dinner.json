@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dnr1",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/N6dRNXL/dinner1.png"
+  },
+  {
+    "id": "dnr2",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/H4zVm2v/dinner2.png"
+  },
+  {
+    "id": "dnr3",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/LZYsNM5/dinner3.png"
+  },
+  {
+    "id": "dnr4",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/sJ3wPKd/dinner4.png"
+  },
+  {
+    "id": "dnr5",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/ZMFFbjC/dinner5.png"
+  },
+  {
+    "id": "dnr6",
+    "name": "Bagel and cream chesse",
+    "discription": "we explor your test",
+    "img": "https://i.ibb.co/vVNS8M3/dinner6.png"
+  }
+]

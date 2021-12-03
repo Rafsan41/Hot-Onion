@@ -1,0 +1,10 @@
+.breakfast{
+    background-color: rgba(245, 247, 248, 0.808);
+    box-shadow:2px 3px 4px 3px rgba(131, 131, 131, 0.63);
+    border-radius: 5px;
+     
+}
+
+.breakfast img{
+    width: 100%;
+}
